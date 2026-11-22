@@ -8,7 +8,8 @@ I'm still learning, so you'll probably find a mix of experiments, side projects,
 
 Always exploring, always learning, and occasionally breaking things along the way. :)
 
-✦ Check out my website at: rajatco.lovable.app ⋆✴︎˚｡⋆˚࿔
+✦ Check out my website [here!](https://rajatco.lovable.app "click me!")
+ ⋆✴︎˚｡⋆˚࿔
 
 Thanks for stopping by! /•᷅‎‎•᷄\੭
 
